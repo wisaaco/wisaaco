@@ -1,12 +1,4 @@
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisaaco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
- <img align="right" src="https://komarev.com/ghpvc/?username=wisaaco" alt="wisaaco" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wisaaco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true&order=2" height="190" alt="languages graph"  />
- -->
-  
-</div>
-
 # Isaac Lera
 
 ## Ph.D. in Computer Science <br/>
@@ -38,7 +30,12 @@ Universitat de les Illes Balears<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
+## Github stats 
 
+<div align="center">
+   <img align="right" src="https://komarev.com/ghpvc/?username=wisaaco" alt="wisaaco" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wisaaco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
 
 <!--
 **wisaaco/wisaaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
